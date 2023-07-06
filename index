@@ -1,5 +1,23 @@
-hi  
-  
-<p>
 
+<!DOCTYPE html>
+  h1 {
+  color: blue;
+    font-size: 300%;
+    text-align: center;
+  }
+  
+p { 
+color: lightorange;
+font-size: 120%;
+text-align: center;
+}
+
+<h1>
+hi  
+<h1/>
+
+<p>
+this exists
 <p/>
+
+<!DOCTYPE html/>
