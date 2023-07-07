@@ -22,17 +22,14 @@ text-align: center;
 <body>
   
 <h1>
-hi  
+ a site for playing around  
 </h1>
 
 <p>
-this exists.  
-  
-  these do too:  
-  
-  <a href="https://fwedwicdedwick.github.io/fuzzy-rotary-phone/README.md">readme</a>
-  
-</p>
+ I'll add a README later.  
 
+ <a href="https://fwedwicdedwick.github.io/fuzzy-rotary-phone/index.html">here's the index</a>  
+
+</p>
 </body>
 </html>
