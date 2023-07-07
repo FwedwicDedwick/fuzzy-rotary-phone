@@ -1,33 +1,38 @@
+
 <!DOCTYPE html>
 <html>
 <head>
 <style>
-
-h1 {
-color: blue;
+  
+  h1 {
+  color: blue;
     font-size: 300%;
     text-align: center;
-}
+  }
 
-p {
+
+p { 
 color: seagreen;
 font-size: 120%;
 text-align: center;
 }
 
-</style
+</style>
 </head>
 <body>
- 
+  
 <h1>
- a site for playing around  
+hi  
 </h1>
 
 <p>
- I'll add a README later.  
-
- <a href="https://fwedwicdedwick.github.io/fuzzy-rotary-phone/index.html">here's the index</a>  
-
+this exists.  
+  
+  these do too:  
+  
+  <a href="https://fwedwicdedwick.github.io/fuzzy-rotary-phone/README.md">readme</a>
+  
 </p>
+
 </body>
 </html>
