@@ -7,7 +7,6 @@ h1 {
 color: blue;
     font-size: 300%;
     text-align: center;
-
 }
 
 p {
@@ -18,6 +17,7 @@ text-align: center;
 
 </style
 </head>
+<body>
  
 <h1>
  a site for playing around  
@@ -29,5 +29,5 @@ text-align: center;
  <a href="https://fwedwicdedwick.github.io/fuzzy-rotary-phone/index.html">here's the index</a>  
 
 </p>
- 
+</body>
 </html>
