@@ -4,11 +4,16 @@
 <style>
 
 h1 {
+color: blue;
+    font-size: 300%;
+    text-align: center;
 
 }
 
 p {
-
+color: seagreen;
+font-size: 120%;
+text-align: center;
 }
 
 </style
